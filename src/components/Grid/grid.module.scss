@@ -1,0 +1,32 @@
+@import "global_variables";
+@import "global_mixins";
+
+$gridGap: $font-size-nano;
+
+.aspectRatio {
+    max-height: 70vh;
+    max-width: 70vh;
+    margin: auto;
+    margin-top: $font-size-gaint;
+
+    .rowsWrapper {
+        display: grid;
+        grid-auto-rows: max-content;
+        background-color: $color-text-primary;
+        gap: $gridGap;
+        padding: $gridGap * 1.3;
+        border-radius: $gridGap * 2;
+
+        .row {
+            display: grid;
+            grid-auto-flow: column;
+            grid-auto-columns: 1fr;
+            place-content: center;
+            place-items: center;
+            width: 100%;
+            height: 100%;
+            background-color: $color-text-primary;
+            gap: $gridGap;
+        }
+    }
+}

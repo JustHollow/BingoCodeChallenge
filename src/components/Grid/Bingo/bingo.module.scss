@@ -1,0 +1,20 @@
+@import "global_variables";
+@import "global_mixins";
+
+.wrapper {
+    @include aspectRatio(1);
+    width: 100%;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    place-content: center;
+    place-items: center;
+
+    .bingo {
+        font-size: $font-size-big;
+
+        &:focus {
+            outline: none;
+        }
+    }
+}

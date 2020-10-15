@@ -1,0 +1,31 @@
+@import "global_variables";
+@import "global_mixins";
+
+.cell {
+    @include aspectRatio(1);
+    padding: $font-size-nano;
+    border: none;
+    width: 100%;
+    height: 100%;
+    overflow-wrap: anywhere;
+    background-color: white;
+    font-weight: 500;
+
+    &:focus {
+        outline: $font-size-nano solid
+            rgba($color: $color-brand-secondary-light, $alpha: 0.85);
+    }
+
+    &Checked {
+        background-color: $color-text-secondary-lightest;
+        color: $color-text-primary-light;
+        text-decoration: line-through;
+        font-weight: 300;
+    }
+
+    &Win {
+        background-color: $color-brand-primary-light;
+        color: $color-brand-primary-darkest;
+        text-decoration: none;
+    }
+}

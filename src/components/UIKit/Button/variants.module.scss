@@ -1,0 +1,17 @@
+@import "global_variables";
+
+.text {
+    border: none;
+    padding: 6px 16px;
+    line-height: 1.75;
+}
+
+.outline {
+    @extend .text;
+    font-size: $font-size-increased;
+}
+
+.filled {
+    @extend .text;
+    font-size: $font-size-increased;
+}

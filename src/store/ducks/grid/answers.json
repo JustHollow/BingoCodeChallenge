@@ -1,0 +1,182 @@
+[
+    {
+        "id": "0",
+        "text": "You're on mute"
+    },
+    {
+        "id": "1",
+        "text": "Obligatory weather chat"
+    },
+    {
+        "id": "2",
+        "text": "Could you repeat that?"
+    },
+    {
+        "id": "3",
+        "text": "Argh, technical difficulties"
+    },
+    {
+        "id": "4",
+        "text": "Great work, everyone!"
+    },
+    {
+        "id": "5",
+        "text": "Wacky virtual background"
+    },
+    {
+        "id": "6",
+        "text": "Out of sync audio and video"
+    },
+    {
+        "id": "7",
+        "text": "The ol' room switcheroo"
+    },
+    {
+        "id": "8",
+        "text": "...awkward pause..."
+    },
+    {
+        "id": "9",
+        "text": "Pet appears(is adorable)"
+    },
+    {
+        "id": "10",
+        "text": "Someone's snacking"
+    },
+    {
+        "id": "11",
+        "text": "Someone yawns and tries to hide it"
+    },
+    {
+        "id": "12",
+        "text": "House plant spotted"
+    },
+    {
+        "id": "13",
+        "text": "Camera on, chair empty"
+    },
+    {
+        "id": "14",
+        "text": "Can you see what I'm sharing?"
+    },
+    {
+        "id": "15",
+        "text": "Where's [name of absent person]?"
+    },
+    {
+        "id": "16",
+        "text": "The meeting starts late"
+    },
+    {
+        "id": "17",
+        "text": "Someone is late"
+    },
+    {
+        "id": "18",
+        "text": "Someone drops out, then rejoins"
+    },
+    {
+        "id": "19",
+        "text": "Oops, sorry. You go first."
+    },
+    {
+        "id": "20",
+        "text": "Pre-meeting small talk"
+    },
+    {
+        "id": "21",
+        "text": "Sweatpants sighting"
+    },
+    {
+        "id": "22",
+        "text": "Someone is frozen"
+    },
+    {
+        "id": "23",
+        "text": "Audio on, camera off"
+    },
+    {
+        "id": "24",
+        "text": "New hairdo debuted"
+    },
+    {
+        "id": "25",
+        "text": "Someone who should be muted, isn't"
+    },
+    {
+        "id": "26",
+        "text": "Classy profile photo"
+    },
+    {
+        "id": "27",
+        "text": "Convo goes off on a tangent"
+    },
+    {
+        "id": "28",
+        "text": "Loud message *pings*"
+    },
+    {
+        "id": "29",
+        "text": "Mystery person in background"
+    },
+    {
+        "id": "30",
+        "text": "Embarrassing item in shot"
+    },
+    {
+        "id": "31",
+        "text": "Emoji in chat"
+    },
+    {
+        "id": "32",
+        "text": "A doorbell rings"
+    },
+    {
+        "id": "33",
+        "text": "Strange art on the wall"
+    },
+    {
+        "id": "34",
+        "text": "CHILD ALERT!"
+    },
+    {
+        "id": "35",
+        "text": "Someon-- k-eps ---ting out"
+    },
+    {
+        "id": "36",
+        "text": "Suspiciously rude noise"
+    },
+    {
+        "id": "37",
+        "text": "Two people, same outift"
+    },
+    {
+        "id": "38",
+        "text": "Someone sneezes"
+    },
+    {
+        "id": "39",
+        "text": "Next steps discussed"
+    },
+    {
+        "id": "40",
+        "text": "Someone just woke up"
+    },
+    {
+        "id": "41",
+        "text": "Coffee cup cameo"
+    },
+    {
+        "id": "42",
+        "text": "LOLing, but on mute"
+    },
+    {
+        "id": "43",
+        "text": "Celebrity name drop"
+    },
+    {
+        "id": "44",
+        "text": "What was I saying?"
+    }
+]
